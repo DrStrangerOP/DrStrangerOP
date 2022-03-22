@@ -40,13 +40,6 @@
 
 ---
 
-<h2> My Repo Status <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width=70px></h2>
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=Captain-Price&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=kisarapesanjithperera.github.io&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=MaxBotsCovidInfo&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=KisaraPesanjithPerera&repo=ImageEditorBot&theme=dark)
- 
 
 <h2> My Tools And Languages<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h2>
@@ -119,7 +112,7 @@
 
 <h2 align="left">Connect With Me<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="left">
-<a href="https://dev.to/kisarapesanjithperera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kisarapesanjithperera" height="30" width="40" /></a>
+<a href="https://dev.to/drstrangerxd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DrStrangerXD" height="30" width="40" /></a>
 <a href="https://twitter.com/kisarapesanjith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kisarapesanjith" height="30" width="40" /></a>
 <a href="https://instagram.com/kisarapesanjithperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kisarapesanjithperera" height="30" width="40" /></a>
 <a href="https://m.youtube.com/channel/UC_-caKrhcU3J_ktLQYInwuw" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" alt="kp tech hub" height="40" width="40" /></a>
