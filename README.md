@@ -32,7 +32,7 @@
 
 ![Profile Views](https://gpvc.arturio.dev/DrStrangerXD)
 ![GitHub Followers](https://img.shields.io/github/followers/DrStrangerXD?style=social)
-<a href="https://twitter.com/DrStrangerXD" target="blank"><img src="https://img.shields.io/twitter/follow/DrStrangerXD?logo=twitter&style=for-the-badge" alt="DrStrangerXD" /></a>
+<a href="https://twitter.com/Dr_Stranger_XD" target="blank"><img src="https://img.shields.io/twitter/follow/DrStrangerXD?logo=twitter&style=for-the-badge" alt="DrStrangerXD" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DrStrangerXD" alt="DrStrangerXD" /></a> </p>
 <a href="https://github.com/Dr_Stranger_XD"><img alt="Kisara Pesanjith Perera's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DrStrangerXD&bg_color=FFFFFF&color=000000&line=FF0000&point=000000&hide_border=true" /></a>
 
