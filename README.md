@@ -4,7 +4,7 @@
   <a href="https://t.me/Dr_Stranger_XD"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
     </p>
 
-<h2> Hey I Am 𝐃𝐑 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<h2> Hey I Am 𝘿𝙍 𝙎𝙏𝙍𝘼𝙉𝙂𝙀𝙍🇱🇰 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
 - 👋 Hi, I’m @DrStrangerXD
 - 👀 I’m interested in ...
